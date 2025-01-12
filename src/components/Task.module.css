@@ -1,0 +1,6 @@
+.taskRow{
+    background-color:darkgray;
+    align-items: center;
+    padding: 2px 0px;
+    border: 1px solid black;
+}
